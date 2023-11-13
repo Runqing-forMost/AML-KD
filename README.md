@@ -1,5 +1,5 @@
 # AML-KD
-This repo is created for our paper ``Knowledge Distillation Meets Label Noise Learning: Ambiguity-Guided Mutual Label Refinery'' (Under Review).
+This repo is created for our paper ``Knowledge Distillation Meets Label Noise Learning: Ambiguity-Guided Mutual Label Refinery'' (TNNLS 2023).
 
 ## Installation
 ```shell
